@@ -23,5 +23,5 @@ To run this:
     ```
     python download_images.py https://www.sahyadri.edu.in
     ```
-    A new folder `sahyadri.edu.in` will be created automatically that contains all the images of that web page.
+    A new folder `www.sahyadri.edu.in` will be created automatically that contains all the images of that web page.
 
