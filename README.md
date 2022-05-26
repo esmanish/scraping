@@ -19,9 +19,9 @@ To run this:
     -p PATH, --path PATH  The Directory you want to store your images, default
                             is the domain of URL passed
     ```
-- If you want to download all images from https://www.thepythoncode.com/topic/web-scraping for example:
+- If you want to download all images from https://www.sahyadri.edu.in for example:
     ```
-    python download_images.py https://www.thepythoncode.com/topic/web-scraping
+    python download_images.py https://www.sahyadri.edu.in
     ```
-    A new folder `www.thepythoncode.com` will be created automatically that contains all the images of that web page.
-- If you want to download images from javascript-driven websites, consider using `download_images_js.py` script instead (it accepts the same parameters)
+    A new folder `sahyadri.edu.in` will be created automatically that contains all the images of that web page.
+
